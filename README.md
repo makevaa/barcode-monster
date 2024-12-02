@@ -11,4 +11,5 @@ Pelissä skannataan viivakoodeja. Koodeista tulee hirviöitä, joita vastaan tai
 - React Native Async Storage (en ole varma toimiiko oikein)
 - React Native Reanimated-animaatiokirjasto
 
+## Kuvia:
 ![BarcodeMonster](https://i.imgur.com/UNMeeXJ.jpeg)]
