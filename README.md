@@ -7,9 +7,9 @@ Pelissä skannataan viivakoodeja. Koodeista tulee hirviöitä, joita vastaan tai
 - Expo Camera
 - React Context API (datan jakamiseen komponenttien välillä)
 - Flatlist
-- API:lla haetut kuvat ja nimet (https://digi-api.com/)[https://digi-api.com/]
+- API:lla haetut kuvat ja nimet (https://digi-api.com/)
 - React Native Async Storage (en ole varma toimiiko oikein)
 - React Native Reanimated-animaatiokirjasto
 
 ## Kuvia
-![BarcodeMonster](https://i.imgur.com/UNMeeXJ.jpeg)]
+![BarcodeMonster](https://i.imgur.com/UNMeeXJ.jpeg)
